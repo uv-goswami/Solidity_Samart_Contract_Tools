@@ -63,11 +63,11 @@ surya parse temp.sol
 ```
 
 # Output
-For Step-6:
-![]()
-
-For step-7:
-![]()
+For Step-6 and Step-7:
+![](https://github.com/uv-goswami/Solidity_Smart_Contract_Tools/blob/main/Surya/01_Output.png)
 
 For Step-8:
-![]()
+![](https://github.com/uv-goswami/Solidity_Smart_Contract_Tools/blob/main/Surya/02_Output.png)
+![](https://github.com/uv-goswami/Solidity_Smart_Contract_Tools/blob/main/Surya/03_Output.png)
+![](https://github.com/uv-goswami/Solidity_Smart_Contract_Tools/blob/main/Surya/04Output.png)
+![](https://github.com/uv-goswami/Solidity_Smart_Contract_Tools/blob/main/Surya/05_Output.png)
