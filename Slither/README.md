@@ -78,4 +78,4 @@ Step-6: Go to the dirctory in you terminal and add:
 slither my_contract.sol
 ```
 # Output
-![output](https://github.com/uv-goswami/Solidity_Samart_Contract_Tools/blob/main/output.png)
+![output](https://github.com/uv-goswami/Solidity_Samart_Contract_Tools/blob/main/Slither/output.png)
