@@ -44,7 +44,7 @@ slither --version
 ```
 # How to run Slither
 
-Step-5:Create a <my_contract.sol> file in any local directory<br>
+Step-5:Create a <my_contract.sol> file in any local directory. You may paste the following in a Text Editor and save the file as my_contract.sol .<br>
 You may use the following smart contract for testing Slither:
 ```
 pragma solidity ^0.4.15;
