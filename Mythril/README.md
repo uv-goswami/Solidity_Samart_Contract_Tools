@@ -58,3 +58,6 @@ contract Missing{
 Step-6: Go to the dirctory in you terminal and add:
 ```
 myth analyze my_contract.sol
+```
+# Output
+![](https://github.com/uv-goswami/Solidity_Samart_Contract_Tools/blob/main/Mythril/output.jpeg)
